@@ -7,6 +7,7 @@ namespace WiredbrainConsolApp
         static void Main(string[] args)
         {
             Console.WriteLine("WiredbrainConsolApp looks good!");
+            Console.WriteLine("WiredbrainConsolApp looks good in feature!");
         }
     }
 }
